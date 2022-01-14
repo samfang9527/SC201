@@ -7,4 +7,6 @@ This repository holds my programming projects done during the period of stanCode
   * Please refered to the link for detail of the competition. [Link](https://www.kaggle.com/c/sc201-may-2021/overview)
   * Compete with other students in class and ranked 6 in leaderboard
 * Titanic Surviver Deep NN
-* Final Project
+  * Apply neural network on titanic surviver data
+* [Final Project](https://colab.research.google.com/drive/1MsKGjWLWpTYMNQUOS56wM51D1jCuF5Mm?authuser=1)
+  * AML news recognition AI
